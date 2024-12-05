@@ -1,0 +1,6 @@
+@Luna_Edge_HostAddress = http://localhost:5051
+
+GET {{Luna_Edge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
